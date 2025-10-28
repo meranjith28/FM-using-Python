@@ -55,6 +55,8 @@ plt.title("FM")
 plt.tight_layout()
 plt.show()
 ```
+
+
 Output Waveform
 
 <img width="630" height="470" alt="image" src="https://github.com/user-attachments/assets/85850851-acc2-47b8-b986-a15c95c6fce0" />
@@ -62,11 +64,12 @@ Output Waveform
 
 Tabular Column
 
+<img width="533" height="708" alt="image" src="https://github.com/user-attachments/assets/f9b7cc81-323e-415f-b80f-d2c5a9b64c17" />
 
 
 Calculation
 
-
+<img width="528" height="213" alt="image" src="https://github.com/user-attachments/assets/17a5e0f2-8e09-4b93-b2f9-2619f2c9aebd" />
 
 
 Result
